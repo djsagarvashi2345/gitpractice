@@ -2,3 +2,8 @@ body{
   color:white;
   text-decoration:none;
 }
+
+h1{
+  text:black;
+  flex: auto;
+}
